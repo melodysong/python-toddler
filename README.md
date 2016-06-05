@@ -18,7 +18,8 @@ If you’re a person who always wonders “why?” and “philosophy” behind P
 2. [LeetCode](https://leetcode.com/problemset/algorithms/):
 
    Solving few algorithm problems using Python allowed me to notice my Native-C coding-style existing in my Python code. Reviewing other users’ Python code drastically helped me accept I suck at Python. So, let’s keep studying and practicing more.
-   From my experience, the best impact was from comparing your code with your Python study-mate. Gosh, it does feel horrible to get kicked my ass by my friends, but it’s very fun. 
+   From my experience, the best impact was from comparing your code with your Python study-mate. Gosh, it does feel horrible to get my ass kicked by my friends, but I got to learn a lot from this.
+
    Please feel free to pay to get access to locked problems. 
 
 
