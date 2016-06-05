@@ -6,21 +6,24 @@ If you’re a person who always wonders “why?” and “philosophy” behind P
 
 ---
 
-## [Steps on Studying for Python Toddlers] ##
+## [Steps to Study for Python Toddlers] ##
 
 
 1. [HackerRank](https://www.hackerrank.com/domains/python/py-introduction):
+
    Get used to the built-in libraries from HackerRank.
    Yes, I know. These look too easy, but hey, let’s not forget to get back to the basics.
 
 
 2. [LeetCode](https://leetcode.com/problemset/algorithms/):
+
    Solving few algorithm problems using Python allowed me to notice my Native-C coding-style existing in my Python code. Reviewing other users’ Python code drastically helped me accept I suck at Python. So, let’s keep studying and practicing more.
    From my experience, the best impact was from comparing your code with your Python study-mate. Gosh, it does feel horrible to get kicked my ass by my friends, but it’s very fun. 
    Please feel free to pay to get access to locked problems. 
 
 
 3. DeepDive into Demystifying…
+
     As a Native-C person, I wonder how Python compiles. Maybe I shouldn’t have taken “Compiler” class. I started wondering on the outputs of below:
 
 ```python
@@ -39,7 +42,7 @@ If you’re a person who always wonders “why?” and “philosophy” behind P
     Out[4]: True
 ```
 
-    Of course, knowing generator helps the difference between ```reversed(x)``` and list(reversed(x)). However, I'll upload what we played around with to practice. 
+    Of course, knowing generator helps the difference between `reversed(x)` and `list(reversed(x))`. However, I'll upload what we played around with to practice. 
 
 
 
