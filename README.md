@@ -1,6 +1,7 @@
 # python-toddler
 
-When you type in Python in search engines, we get too many links to click on. Hence, I’ve decided to share my steps studying Python with the public. This study guide is intended for people who have experience with other programming language. I, myself, have Native-C experience, and I was struggling to bring my Python skill up to speed. Please feel free to share if you have any suggestions on better ways to help others fall in love with Python. Giving all credits to @htkim for providing guidance. 
+When you type in Python in search engines, we get too many links to click on. Hence, I’ve decided to share my steps studying Python with the public (for the first time!!). This study guide is intended for people who have experience with other programming language(s). I, myself, have Native-C experience, and I was struggling to bring my Python skill up to speed. Please feel free to share if you have any suggestions on better ways to help others fall in love with Python. Giving all credits to @htkim for providing guidances. 
+
 
 If you’re a person who always wonders “why?” and “philosophy” behind Python, http://www.python-course.eu/python3_history_and_philosophy.php
 
@@ -43,7 +44,7 @@ If you’re a person who always wonders “why?” and “philosophy” behind P
     Out[4]: True
 ```
 
-    Of course, knowing generator helps the difference between `reversed(x)` and `list(reversed(x))`. However, I'll upload what we played around with to practice. 
+    Of course, knowing generator helps the difference between reversed(x) and list(reversed(x)). However, I'll upload what we played around with to practice. 
 
 
 
